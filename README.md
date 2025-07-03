@@ -46,30 +46,21 @@ pip install pandas matplotlib
 
 🚀 How to Run
 1. Simulate the altitude system
-bash
-Copy
-Edit
 python step1_altitude_guard_simulation.py
 🔹 This will print time-stamped drone altitude and state transitions.
 
 2. Log altitude and states
-bash
-Copy
-Edit
+
 python step3_logger.py
 📄 Output: drone_altitude_log.csv
 
 3. Plot altitude graph
-bash
-Copy
-Edit
+
 python step2_altitude_graph.py
 📈 Outputs a plot of altitude over time.
 
 4. Analyze results
-bash
-Copy
-Edit
+
 python step4_analysis.py
 📊 You will get:
 
