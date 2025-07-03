@@ -6,16 +6,6 @@ This project simulates sensor readings, logs altitude data, visualizes the altit
 
 ---
 
-## 📁 Project Structure
-
-iot_project/
-├── step1_altitude_guard_simulation.py # Simulates altitude and FSM transitions
-├── step2_altitude_graph.py # Plots altitude graph over time
-├── step3_logger.py # Logs altitude and state to CSV
-├── step4_analysis.py # Analyzes performance metrics
-├── drone_altitude_log.csv # Logged data from logger script
-├── altitude_log.csv # Additional log file for visualization
-└── README.md # Project documentation
 
 
 ---
